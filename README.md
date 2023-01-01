@@ -2,6 +2,7 @@
 
 React JS로 To Do List 만들기 😉
 <br>
+<br>
 ![project_img](./img/todo.png)
 
 <br>
