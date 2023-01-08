@@ -40,7 +40,7 @@ React JS로 To Do List 만들기 😉
 
 - App : 기본 데이터가 들어있는 컴포넌트. Layout컴포넌트 내부에 Input컴포넌트와 List컴포넌트를 넣어서 return하고 props로 데이터를 전달하고 있다.
 
-- Layout : 기본 골격 구조를 위해 만든 컴포넌트. Header컴포넌트를 품고있다.
+- Layout : 기본 골격 구조를 위해 만든 컴포넌트. Header컴포넌트와 App에서 Layout안에 넣어서 넘어온 Input과 List컴포넌트를 자식으로 품고있다.
 
 - Input : input에서 입력받은 값을 App컴포넌트의 기본데이터에 useState로 업데이트한다.
 
